@@ -45,7 +45,7 @@ export const Signin = () => {
         <C.LabelSignup>
           Não tem uma conta?
           <C.Strong>
-            <Link to='/signup'> Registra-se</Link>
+            <Link to='/signup'> 'Registra-se</Link>
           </C.Strong>
         </C.LabelSignup>
       </C.Content>
